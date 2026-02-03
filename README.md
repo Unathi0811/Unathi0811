@@ -6,7 +6,11 @@ I enjoy building things with care and keeping my code clean, simple, and intenti
 
 I believe growth doesn’t have to be loud to be real.
 
-💗 **Reach me via mail:** [Email](mailto:skylersur0811@gmail.com)
+
+
+# 🩷 How To Reach Me 🩷
+
+💗 **Email:** [Email](mailto:skylersur0811@gmail.com)
 
 💗 **My portfolio:** [Portfolio](https://www.skylersuru.co.za/) 
 
