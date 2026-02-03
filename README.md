@@ -1,12 +1,13 @@
-# Hi There, 🩷 I’m **Skyler**
+# 🩷 Hi, I’m **Skyler** 🩷
 
 
-An IT student who enjoys learning how systems work and building things with care.
-
-I’m currently focused on backend development, databases, and security, and I like keeping my code clean, simple, and intentional.
+An IT student focused on backend development, databases, and security.  
+I enjoy building things with care and keeping my code clean, simple, and intentional.
 
 I believe growth doesn’t have to be loud to be real.
 
-💗 **Reach me:** skylersur0811@gmail.com 
+💗 **Reach me via mail:** [Email](mailto:skylersur0811@gmail.com)
 
-💗 **My portfolio:** https://www.skylersuru.co.za/
+💗 **My portfolio:** [Portfolio](https://www.skylersuru.co.za/) 
+
+💗 **My linkedin:** [LinkedIn](https://www.linkedin.com/in/skyler-unathi-suru/)
